@@ -3,4 +3,6 @@ def sum(a, b):
 
 #this is my second commit
 
+def multiply(a, b):
+    return a * b
 
